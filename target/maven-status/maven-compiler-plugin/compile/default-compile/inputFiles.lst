@@ -1,0 +1,10 @@
+/home/adsi1261718/Vídeos/ejemplo_java_angular_backend-master/src/main/java/com/example/rest/services/UploadRESTFile.java
+/home/adsi1261718/Vídeos/ejemplo_java_angular_backend-master/src/main/java/com/example/jpa/sessions/TipoDocumentoFacade.java
+/home/adsi1261718/Vídeos/ejemplo_java_angular_backend-master/src/main/java/com/example/jpa/sessions/UsuarioFacade.java
+/home/adsi1261718/Vídeos/ejemplo_java_angular_backend-master/src/main/java/com/example/jpa/sessions/AbstractFacade.java
+/home/adsi1261718/Vídeos/ejemplo_java_angular_backend-master/src/main/java/com/example/rest/services/AppConfig.java
+/home/adsi1261718/Vídeos/ejemplo_java_angular_backend-master/src/main/java/com/example/jpa/entities/TipoDocumento.java
+/home/adsi1261718/Vídeos/ejemplo_java_angular_backend-master/src/main/java/com/example/rest/services/TipoDocumentoREST.java
+/home/adsi1261718/Vídeos/ejemplo_java_angular_backend-master/src/main/java/com/example/jpa/entities/Usuario.java
+/home/adsi1261718/Vídeos/ejemplo_java_angular_backend-master/src/main/java/com/example/rest/services/NewCrossOriginResourceSharingFilter.java
+/home/adsi1261718/Vídeos/ejemplo_java_angular_backend-master/src/main/java/com/example/rest/services/UsuarioREST.java
